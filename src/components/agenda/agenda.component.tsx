@@ -39,7 +39,7 @@ const Agenda = () => {
   return (
     <div className={styles.agenda}>
       <div className={styles.agendaInner}>
-        <DayHeading day={1} date="4th May" />
+        <DayHeading day={1} date="4th July" />
         <DayList>
           <AgendaEntry time="17:00" heading="Arrive in Amsterdam" />
           <AgendaEntry time="18:00" heading="Hotel Check-in">
@@ -70,7 +70,7 @@ const Agenda = () => {
             </p>
           </AgendaEntry>
         </DayList>
-        <DayHeading day={2} date="5th May" />
+        <DayHeading day={2} date="5th July" />
         <DayList>
           <AgendaEntry time="09:00" heading="Free Time">
             <p>
@@ -160,7 +160,7 @@ const Agenda = () => {
             </p>
           </AgendaEntry>
         </DayList>
-        <DayHeading day={3} date="6th May" />
+        <DayHeading day={3} date="6th July" />
         <DayList>
           <AgendaEntry time="11:00" heading="Hotel Check-out" />
           <AgendaEntry time="14:00 - 15:30" heading="Heineken Experience">
