@@ -1,0 +1,40 @@
+.page {
+  align-items: center;
+  justify-items: center;
+  min-height: 100svh;
+  padding: 24px 16px;
+  gap: 24px;
+  font-family: var(--font-lato);
+  max-width: 1024px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+
+  @media (width >= 1024px) {
+    padding: 80px 16px;
+    gap: 80px;
+  }
+}
+
+.main {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+
+  @media (width >= 1024px) {
+    gap: 80px;
+  }
+}
+
+.footer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  font-weight: 300;
+}
