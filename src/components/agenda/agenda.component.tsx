@@ -94,7 +94,7 @@ const Agenda = () => {
                 start on time.
               </p>
               <p>
-                If you wear glasses, take into account that glasses larger then
+                If you wear glasses, take into account that glasses larger than
                 142 x 50 mm will not fit the VR goggles. Wear contacts if
                 possible.
               </p>
