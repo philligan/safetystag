@@ -101,7 +101,7 @@ const Agenda = () => {
               <p>
                 <strong>Location:</strong>{" "}
                 <a
-                  href="https://goo.gl/maps/1Z5b7c8d9kz"
+                  href="https://maps.app.goo.gl/YvBoEbLv4GMHcw2V6"
                   target="_blank"
                   rel="nofollow"
                 >
@@ -126,7 +126,7 @@ const Agenda = () => {
             <p>
               <strong>Location:</strong>{" "}
               <a
-                href="https://maps.app.goo.gl/mUwxnPFo9w7KW88R7"
+                href="https://maps.app.goo.gl/9QKQuvtHb5GVFtED6"
                 target="_blank"
                 rel="nofollow"
               >
@@ -142,7 +142,7 @@ const Agenda = () => {
             <p>
               <strong>Location:</strong>{" "}
               <a
-                href="https://goo.gl/maps/1Z5b7c8d9kz"
+                href="https://maps.app.goo.gl/o375Pqdrqf6c1yaB6"
                 target="_blank"
                 rel="nofollow"
               >
@@ -171,6 +171,16 @@ const Agenda = () => {
             <p>
               We finish with a visit to the exclusive rooftop terrace for city
               views and a beer.
+            </p>
+            <p>
+              <strong>Location:</strong>{" "}
+              <a
+                href="https://maps.app.goo.gl/fLQMiZtUUqfUU7jt9"
+                target="_blank"
+                rel="nofollow"
+              >
+                Heineken Experience
+              </a>
             </p>
           </AgendaEntry>
           <AgendaEntry time="15:30" heading="Travel to Airport" />
